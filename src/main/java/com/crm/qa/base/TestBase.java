@@ -14,6 +14,8 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
+
+//Parent class
 public class TestBase {
     public static Properties prop;
      public static WebDriver driver;
